@@ -1,1 +1,0 @@
-export { Iphone } from "./Iphone";
